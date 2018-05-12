@@ -1,0 +1,26 @@
+_repo: The-Christ-Of-PaulOr-The-Enigmas-of-Christianity_38376
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reber, George
+    gutenberg_agent_id: '39429'
+    url: http://www.gutenberg.org/2009/agents/39429
+description: ''
+gutenberg_issued: '2011-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38376'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church history -- Primitive and early church, ca. 30-600 -- Controversial
+  literature'
+- !lcsh 'Bible. New Testament -- Controversial literature'
+- !lcc 'BS'
+title: The Christ of Paul; Or, The Enigmas of Christianity
+url: http://www.gutenberg.org/ebooks/38376
