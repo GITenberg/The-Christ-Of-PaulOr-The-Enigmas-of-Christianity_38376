@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '39429'
     url: http://www.gutenberg.org/2009/agents/39429
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38376#The-Christ-Of-PaulOr-The-Enigmas-of-Christianity
 gutenberg_issued: '2011-12-22'
 gutenberg_type: Text
 identifiers:
